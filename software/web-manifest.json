@@ -1,0 +1,40 @@
+{
+  "component": "software-flat-web-upload",
+  "files": [
+    {
+      "path": "README.md",
+      "size": 3995,
+      "sha256": "4062fbca55eb7e2a3caaa3fd619862c1698226a2b7911e000e7275e2290d7fff"
+    },
+    {
+      "path": "deng-ni-lai-0.2.1-bluetooth.apk",
+      "size": 45557,
+      "sha256": "f1b6a2d9c8fb2a0685a92210a632fe1592e8abc49fa876afba233139973e2995"
+    },
+    {
+      "path": "deng-ni-lai-0.2.1-simulation.apk",
+      "size": 49653,
+      "sha256": "df4bf1cafff006541e6f049412c0cc4c7479f684b07c76f2c0540297b6ee709d"
+    },
+    {
+      "path": "software-development-incomplete-20261031.zip",
+      "size": 1289736,
+      "sha256": "97673513921ed551bb2fc8be1f714961b8138e42224f7e2e1bfa83d097076275"
+    },
+    {
+      "path": "software-source-0.2.1.zip",
+      "size": 63149,
+      "sha256": "f8d6020fb8469c27439d0a9b2c1531115fc2bb98972788ff3c8fcc86a654fc5d"
+    },
+    {
+      "path": "version-build-verification.json",
+      "size": 1212,
+      "sha256": "ff9701ecc28d4f6f9123b6098202d768f6edb15c4a0dc06e0727b3563d620206"
+    }
+  ],
+  "file_count_excluding_manifest": 6,
+  "file_count_including_manifest": 7,
+  "all_files_below_24_mib": true,
+  "restoration_verified_files": 70,
+  "note": "Manifest excludes itself. The two ZIPs plus two APKs restore every byte of the complete 69-entry source delivery and its manifest."
+}

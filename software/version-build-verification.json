@@ -1,0 +1,39 @@
+{
+  "stable_version": "0.2.1",
+  "android_min_api": 26,
+  "android_target_api": 35,
+  "apks": [
+    {
+      "filename": "deng-ni-lai-0.2.1-bluetooth.apk",
+      "package": "com.loyee.dengnilai",
+      "version_name": "0.2.1-bluetooth",
+      "version_code": 3
+    },
+    {
+      "filename": "deng-ni-lai-0.2.1-simulation.apk",
+      "package": "com.loyee.dengnilai.simulation",
+      "version_name": "0.2.1-simulation",
+      "version_code": 3
+    }
+  ],
+  "stable_source_files_match_original_build_sha256": 10,
+  "stable_jvm_checks_passed": 49,
+  "stable_main_and_simulation_build_passed": true,
+  "released_vs_rebuilt_classes_dex_resources_manifest_all_identical": true,
+  "development_snapshot": {
+    "directory": "software/development/source-snapshot-20261031",
+    "incomplete": true,
+    "full_android_compile_passed": false,
+    "missing_file": "AgreementActivity.java",
+    "jvm_policy_checks_passed": 229
+  },
+  "four_artifact_restoration": {
+    "passed": true,
+    "files_restored": 70,
+    "original_manifest_entries": 69,
+    "extra_manifest_file": 1,
+    "all_original_bytes_sha256_identical": true
+  },
+  "new_phone_or_emulator_tests_performed": false,
+  "signing_private_keys_included": false
+}
