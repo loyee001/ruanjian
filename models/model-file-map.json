@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "restore_destination": "models/",
+  "original_file_count": 80,
+  "archives": [
+    "00-models-instructions-and-build-tools.zip",
+    "01-enclosure-v3-wide-source-and-stl.zip",
+    "02-board-holders-and-fasteners.zip",
+    "03-adjustable-support-and-roomier-tray.zip",
+    "04-enclosure-v2-reference-source.zip",
+    "05-four-plate-rebuild-source.zip",
+    "06-black-smile-source-and-stl.zip",
+    "07-original-interface-and-pupils.zip"
+  ],
+  "direct_3mf": [
+    {
+      "public_name": "01-enclosure-v3-wide-two-parts.3mf",
+      "original_relative_path": "help-button-enclosure-v3-wide-20261031/help-button-enclosure-v3-wide-two-parts.3mf",
+      "size": 14440958,
+      "sha256": "5d4499b23dbae5fa7536c981095d37fc8d4a9fe4ac1174133fb1f03539588d41"
+    },
+    {
+      "public_name": "02-esp32-holder-with-fasteners.3mf",
+      "original_relative_path": "help-button-component-holders-20261031/plate-1-esp32.3mf",
+      "size": 10952533,
+      "sha256": "4f707081e837e1f196e43eceaea5897cbbdc009fab6cfc4df74b9cb70b5167b1"
+    },
+    {
+      "public_name": "03-button-holder-with-fasteners.3mf",
+      "original_relative_path": "help-button-component-holders-20261031/plate-2-button.3mf",
+      "size": 8212575,
+      "sha256": "cc43b565456cae5f5d98556e57828be81940dc0acd3393b20b3fa10118ef50f4"
+    },
+    {
+      "public_name": "04-button-support-roomier-13-parts-P2S-0.4.3mf",
+      "original_relative_path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/立柱加大按钮小底托-13件-Bambu工程.3mf",
+      "size": 3541030,
+      "sha256": "a6b633175c920191d20bfc764b62fb589b8eca9b04b212c62d2447ca2bbfb3fb"
+    },
+    {
+      "public_name": "05-button-support-roomier-13-parts-generic.3mf",
+      "original_relative_path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/立柱加大按钮小底托-13件-同一盘.3mf",
+      "size": 3568002,
+      "sha256": "88e9a5d53ed45ba1a21199b7d14712a1ef5759bb89be4ba58003e5a3819dd61c"
+    },
+    {
+      "public_name": "06-adjustable-support-12-parts-generic.3mf",
+      "original_relative_path": "button-support-pillar-rescue-20261031/compact/按钮托底承托柱-可调10至60mm-12件-轻量版.3mf",
+      "size": 5505,
+      "sha256": "81fc8a5b92046b4a6cc9a3cf9acb7195eb67625c1f7249b4f586172b1809d105"
+    },
+    {
+      "public_name": "07-black-pupils-two.3mf",
+      "original_relative_path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/黑色眼珠-两只.3mf",
+      "size": 139499,
+      "sha256": "830ad2ae8a256d315d5a052601d463c9a07b1c836ae66d59b4b19fe1cf114986"
+    },
+    {
+      "public_name": "08-black-smile.3mf",
+      "original_relative_path": "help-button-mouth-20261031/黑色笑嘴.3mf",
+      "size": 921953,
+      "sha256": "d4d98d4c0cc3cad074e6c10aa315e9d9388ef702f87b350ab22332f2fc0a9eda"
+    },
+    {
+      "public_name": "09-enclosure-v2-reference-two-parts.3mf",
+      "original_relative_path": "help-button-enclosure-v2-20261031/help-button-enclosure-v2-two-parts.3mf",
+      "size": 13305959,
+      "sha256": "546bea9e8852ccbb7366fc285d34e8cba130412f5635f4a8f9a01149b77dfa62"
+    }
+  ],
+  "all_original_paths_present_exactly_once": true
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 1,
+  "component": "models-flat-web-delivery",
+  "source_file_count": 80,
+  "direct_3mf_count": 9,
+  "archive_count": 8,
+  "file_count_excluding_manifest": 21,
+  "total_bytes_excluding_manifest": 97217235,
+  "maximum_file_bytes": 19177606,
+  "per_file_limit_bytes": 24000000,
+  "all_original_files_recoverable": true,
+  "files": [
+    {
+      "path": "00-models-instructions-and-build-tools.zip",
+      "size": 18226,
+      "sha256": "bc987fa221d3ddd4de5690c43deb0f2cd0bd35e2e1cb588f35b4c7b3a7aabd44"
+    },
+    {
+      "path": "01-enclosure-v3-wide-source-and-stl.zip",
+      "size": 19177606,
+      "sha256": "0181aa13df4898a30d7861f64fe63dd21db1485bee754d2f09f1254ac375ee47"
+    },
+    {
+      "path": "01-enclosure-v3-wide-two-parts.3mf",
+      "size": 14440958,
+      "sha256": "5d4499b23dbae5fa7536c981095d37fc8d4a9fe4ac1174133fb1f03539588d41"
+    },
+    {
+      "path": "02-board-holders-and-fasteners.zip",
+      "size": 14919374,
+      "sha256": "ed3ff96fa3bb26af3c667da9aff47756472d2b1ab7a094734793168b43c44307"
+    },
+    {
+      "path": "02-esp32-holder-with-fasteners.3mf",
+      "size": 10952533,
+      "sha256": "4f707081e837e1f196e43eceaea5897cbbdc009fab6cfc4df74b9cb70b5167b1"
+    },
+    {
+      "path": "03-adjustable-support-and-roomier-tray.zip",
+      "size": 4192620,
+      "sha256": "dee37a60b75f88aa64213275a52f1ad4cfc4ffbf980c0eb31030116257a03960"
+    },
+    {
+      "path": "03-button-holder-with-fasteners.3mf",
+      "size": 8212575,
+      "sha256": "cc43b565456cae5f5d98556e57828be81940dc0acd3393b20b3fa10118ef50f4"
+    },
+    {
+      "path": "04-button-support-roomier-13-parts-P2S-0.4.3mf",
+      "size": 3541030,
+      "sha256": "a6b633175c920191d20bfc764b62fb589b8eca9b04b212c62d2447ca2bbfb3fb"
+    },
+    {
+      "path": "04-enclosure-v2-reference-source.zip",
+      "size": 18435,
+      "sha256": "006a55a23d6928ba7624772e9fcfec29a3f0efd9a2cf8d69acfee87ec2a0904f"
+    },
+    {
+      "path": "05-button-support-roomier-13-parts-generic.3mf",
+      "size": 3568002,
+      "sha256": "88e9a5d53ed45ba1a21199b7d14712a1ef5759bb89be4ba58003e5a3819dd61c"
+    },
+    {
+      "path": "05-four-plate-rebuild-source.zip",
+      "size": 3394,
+      "sha256": "2cf89cdf32c9b50c61310e9ab5df4f38ec04e44de0a40e9f50fb9f21fe7f8114"
+    },
+    {
+      "path": "06-adjustable-support-12-parts-generic.3mf",
+      "size": 5505,
+      "sha256": "81fc8a5b92046b4a6cc9a3cf9acb7195eb67625c1f7249b4f586172b1809d105"
+    },
+    {
+      "path": "06-black-smile-source-and-stl.zip",
+      "size": 1976907,
+      "sha256": "8d02534c41fa434dc3855fa0cd67cbba5908e29eb5e267bee15d20e132f4fdd3"
+    },
+    {
+      "path": "07-black-pupils-two.3mf",
+      "size": 139499,
+      "sha256": "830ad2ae8a256d315d5a052601d463c9a07b1c836ae66d59b4b19fe1cf114986"
+    },
+    {
+      "path": "07-original-interface-and-pupils.zip",
+      "size": 1795365,
+      "sha256": "7dd8e0b7e32040af1aec1e76b9073f4ef8b4d53e5544567ecf5c0a60e4a679ed"
+    },
+    {
+      "path": "08-black-smile.3mf",
+      "size": 921953,
+      "sha256": "d4d98d4c0cc3cad074e6c10aa315e9d9388ef702f87b350ab22332f2fc0a9eda"
+    },
+    {
+      "path": "09-enclosure-v2-reference-two-parts.3mf",
+      "size": 13305959,
+      "sha256": "546bea9e8852ccbb7366fc285d34e8cba130412f5635f4a8f9a01149b77dfa62"
+    },
+    {
+      "path": "README.md",
+      "size": 4646,
+      "sha256": "3f5a8003a6bc1045fb56b43a874295268952fe6930a23a7a8f9e4db17a01f7c5"
+    },
+    {
+      "path": "model-file-map.json",
+      "size": 3217,
+      "sha256": "1bc0910cc3172453821c38372036acfe20c8600ec3796c527a1e43d85a6f969a"
+    },
+    {
+      "path": "models-manifest.json",
+      "size": 16041,
+      "sha256": "ee3b1e1d6f5e163614d5e3e0730d37c204136673b4db54ed21e22c1f585e044d"
+    },
+    {
+      "path": "restore_models.py",
+      "size": 3390,
+      "sha256": "af29cb68ba6d5f91f7477931c56ea4d083a535ad55872d273a53408d41a93c78"
+    }
+  ]
+}

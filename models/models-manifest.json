@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "component": "models",
+  "units": "mm",
+  "file_count_excluding_manifest": 79,
+  "total_bytes_excluding_manifest": 147681133,
+  "maximum_file_bytes": 17492884,
+  "web_upload_per_file_limit_bytes": 24000000,
+  "latest_enclosure": "V3 wide",
+  "latest_button_holder": "roomier-v2 (31.6 x 21.6 mm recess)",
+  "gcode_included": false,
+  "physical_fit_verified": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 37,
+      "sha256": "7982fec4dcc2cf9d3059ba1fd2aee297f3a0b2c2b9d9cf9d5a7a9f4daf1b3175"
+    },
+    {
+      "path": "README.md",
+      "size": 6184,
+      "sha256": "5e3155c4e490076e1e326e9971898754f26e8f5bd61137d66ec9021ea496e164"
+    },
+    {
+      "path": "build_button_support_assembly.py",
+      "size": 2361,
+      "sha256": "dd0c2d323113fcc7bd33e0ded81425414293d2c4819599d68bf4fd5c1703b6b9"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/build_support_pillar.py",
+      "size": 21046,
+      "sha256": "cc9bd4de5051f261aa8bd9838dd64859e64269497de64862bd34ae37856e98a6"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/build_support_pillar_compact.py",
+      "size": 11426,
+      "sha256": "9ec936dc26d6820ace2a0e23e5e10aee5def67aedb1f6b97196b7f7b02fbbfad"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/build_roomier_button_holder.py",
+      "size": 10728,
+      "sha256": "75e5434209be87b3779ef697ee9d5cb02618750d66e6dd022c5317d5ee9d3393"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/button-holder-roomier-v2.stl",
+      "size": 17492884,
+      "sha256": "c788a47c12673e9942494fd9a274df518f47569cfa012bdb3c3a9ca1fa769c9f"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/validation-independent.json",
+      "size": 2884,
+      "sha256": "83c43694bb55972688350a59085a868bce1312e1de90ef94fc1b815c8b36891b"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/validation.json",
+      "size": 3352,
+      "sha256": "308b43a7e1bb4d55a343aacb7d215262a20891e788fb78e7ef79caa63a083499"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/立柱加大按钮小底托-13件-Bambu工程.3mf",
+      "size": 3541030,
+      "sha256": "a6b633175c920191d20bfc764b62fb589b8eca9b04b212c62d2447ca2bbfb3fb"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/立柱加大按钮小底托-13件-同一盘.3mf",
+      "size": 3568002,
+      "sha256": "88e9a5d53ed45ba1a21199b7d14712a1ef5759bb89be4ba58003e5a3819dd61c"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/button-holder-roomier-v2/说明.txt",
+      "size": 873,
+      "sha256": "694b86d609362c5f708a2d30c6524a8c56caf6d02ed268eb33a8ec934dd1ae10"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/main-pillar.stl",
+      "size": 12684,
+      "sha256": "a7aecefa0e687fa4484de6671595e1df66c4df0c24a6e05899a279c97f51a653"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/riser-5mm.stl",
+      "size": 12684,
+      "sha256": "3cbdfa33cbf4a815ad1c2ca060bbb51e923be060c5393f7ee0b2dd9bdab0e7d8"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/shim-1mm.stl",
+      "size": 684,
+      "sha256": "d36044190b78a25ee32f860aa2a3a8e81b4b0f814caaa879b1677f7052d8e048"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/shim-2mm.stl",
+      "size": 684,
+      "sha256": "fcddbfd018ca68799a7d93e13080e0ab57d83c65326a6e0501dbf7feaad30d37"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/top-support.stl",
+      "size": 4684,
+      "sha256": "25d60fef9000f11a1f74f0c8e4c5056f0bd4683f41805f4a7d8c366933419e90"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/validation-independent.json",
+      "size": 14506,
+      "sha256": "c2e7a02ced48cbd4e0a2dcbbeb7901a85df6013c4fd9820986ad64dfdaa7fe93"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/validation-root-package.json",
+      "size": 1083,
+      "sha256": "9a6d8ad3d0f3c14ac22ea8051755082130164a4c19ed7651ea8477640b09a170"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/validation.json",
+      "size": 28451,
+      "sha256": "f6485f807ded720db5bd96cffa1b574bc7f299349ef10993bcd7b64296fd8e18"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/wide-base.stl",
+      "size": 4684,
+      "sha256": "93d4b208e21e76e9a503a3e0854b6f6a2d0649670ec5e27391dee79258c22b10"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/承托柱-12件一盘-实际网格预览.png",
+      "size": 102651,
+      "sha256": "371d65e15238dcb0287d115aad3a1238e8c27ace089e39e9c4cd0b0af21e6853"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/承托柱-40mm装配示例-实际网格预览.png",
+      "size": 97696,
+      "sha256": "f727a7cb279a566091ae686810b393eb35b3a3d087b1f147909e80419af55dbb"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/按钮托底承托柱-可调10至60mm-12件-轻量版.3mf",
+      "size": 5505,
+      "sha256": "81fc8a5b92046b4a6cc9a3cf9acb7195eb67625c1f7249b4f586172b1809d105"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/compact/说明.txt",
+      "size": 2693,
+      "sha256": "34e854e7ee6179e63be8bceb4c2e20ba4b1fee48989e134f1cf66d7aa812fc85"
+    },
+    {
+      "path": "button-support-pillar-rescue-20261031/validation.json",
+      "size": 24859,
+      "sha256": "ce0925d4a816b863d18e2aafd68b9a7dbaec7e852a4b4c31ab0902c805a22bf7"
+    },
+    {
+      "path": "extract_stl.py",
+      "size": 940,
+      "sha256": "8d7487ba0211bc797f69b0785c0a97f34c00fbe9a7eec816d7367c5015a1e099"
+    },
+    {
+      "path": "finalize_four_plate_support.py",
+      "size": 1623,
+      "sha256": "7271756f1a2280717254019c454cecf2d441dbe1ae49a29d2c63cd4745273d28"
+    },
+    {
+      "path": "help-button-component-holders-20261031/build_holders.py",
+      "size": 16641,
+      "sha256": "a62d2aa2f759a819775574e784b49cef57711178eb6daadcbe5d98d327c7a8f1"
+    },
+    {
+      "path": "help-button-component-holders-20261031/button-holder.stl",
+      "size": 16671484,
+      "sha256": "0e9ad833b18d0dd11c41b6aad18d1fe7c26115e4ab48298a397410f04cebe336"
+    },
+    {
+      "path": "help-button-component-holders-20261031/coarse-screw.stl",
+      "size": 8587684,
+      "sha256": "bc6a3036315e73530f5c3ddea5d7ba3b34c299e0e929f8cf6fd0ffedf0edd109"
+    },
+    {
+      "path": "help-button-component-holders-20261031/edge-clamp.stl",
+      "size": 2466884,
+      "sha256": "fc2e0ceccb4ac7bb0e72acd7b478639bc1eb40435aaa2b9ba19a9ea6bc42bcbc"
+    },
+    {
+      "path": "help-button-component-holders-20261031/esp32-holder.stl.gz",
+      "size": 6536303,
+      "sha256": "ab22f1299009b557d201fef21f077c82947074177ca1eedc7518052b3280ff2b"
+    },
+    {
+      "path": "help-button-component-holders-20261031/plate-1-esp32.3mf",
+      "size": 10952533,
+      "sha256": "4f707081e837e1f196e43eceaea5897cbbdc009fab6cfc4df74b9cb70b5167b1"
+    },
+    {
+      "path": "help-button-component-holders-20261031/plate-2-button.3mf",
+      "size": 8212575,
+      "sha256": "cc43b565456cae5f5d98556e57828be81940dc0acd3393b20b3fa10118ef50f4"
+    },
+    {
+      "path": "help-button-component-holders-20261031/validation.json",
+      "size": 8420,
+      "sha256": "83fc9b45c86b58d9751f46e24e105959d9b562ab8bc1adaf71b6322811c80c86"
+    },
+    {
+      "path": "help-button-component-holders-20261031/两盘托座-实际模型预览.png",
+      "size": 171516,
+      "sha256": "6886d5b55543c701490d7496748018d69e6eb303a33fa33a16d6a546453f66ae"
+    },
+    {
+      "path": "help-button-component-holders-20261031/说明.txt",
+      "size": 2083,
+      "sha256": "d8e2576ed417858b2593475a89f291352c9d0014c616e4a47a80e716e4517bc3"
+    },
+    {
+      "path": "help-button-enclosure-v2-20261031/build_enclosure_v2.py",
+      "size": 14260,
+      "sha256": "1945ceeeafaba5aadb0349fc1ad93f8bedd04e47992d95c68706df3fba1ad90a"
+    },
+    {
+      "path": "help-button-enclosure-v2-20261031/geometry_v1_snapshot.py",
+      "size": 11753,
+      "sha256": "1360fdb69525abd704b7ccf63db7d748570aa96e7dfe9f6e9420ce25d948740e"
+    },
+    {
+      "path": "help-button-enclosure-v2-20261031/help-button-enclosure-v2-two-parts.3mf",
+      "size": 13305959,
+      "sha256": "546bea9e8852ccbb7366fc285d34e8cba130412f5635f4a8f9a01149b77dfa62"
+    },
+    {
+      "path": "help-button-enclosure-v2-20261031/validate_meshes.py",
+      "size": 12412,
+      "sha256": "d198810e3382c2f69e7e4b28dd78f58c507ed29d0f755bbfc46fff65fbfd6467"
+    },
+    {
+      "path": "help-button-enclosure-v2-20261031/validation-3mf.json",
+      "size": 808,
+      "sha256": "a07a3eed906180d43a4df2467b0bab6cf98c35548398d9f514d9ffe7ef0bff6c"
+    },
+    {
+      "path": "help-button-enclosure-v2-20261031/validation-independent.json",
+      "size": 5262,
+      "sha256": "b49a878887940ab5044655eb5abb6f13025874482234f8d8222b198d71d51fac"
+    },
+    {
+      "path": "help-button-enclosure-v2-20261031/说明.txt",
+      "size": 1992,
+      "sha256": "c90a43352e3928d2000e384a94d61f967772f8370a929fe3840d7e371f3bfcc0"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/body-wide-v3.stl.gz",
+      "size": 16552958,
+      "sha256": "3202e0a70f00b00f496ec16b6c971595e61f9eff2f60dd4e87307bc713775cb3"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/build_enclosure_wide_v3.py",
+      "size": 17687,
+      "sha256": "455df162a30e16c650ba352169191f96a82d14733ec7d16e8bf23c2048b22c44"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/check_exported_geometry.py",
+      "size": 7704,
+      "sha256": "619d2a9608c5509b08d7d43638c293e156bbfd1c02dc94a6970e88587fc494c7"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/geometry_v1_snapshot.py",
+      "size": 11753,
+      "sha256": "1360fdb69525abd704b7ccf63db7d748570aa96e7dfe9f6e9420ce25d948740e"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/help-button-enclosure-v3-wide-two-parts.3mf",
+      "size": 14440958,
+      "sha256": "5d4499b23dbae5fa7536c981095d37fc8d4a9fe4ac1174133fb1f03539588d41"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/rear-cover-wide-v3.stl",
+      "size": 11989284,
+      "sha256": "4f49e8849076e26b06f89153a665d2b7429dd12f289bd9f0d238e3b09e70bcd2"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/render_preview.py",
+      "size": 3956,
+      "sha256": "340ee004d97faa427cf664ad3bda57fb8c43a1f207e7334e75f4027895dc2715"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/validate_meshes.py",
+      "size": 12412,
+      "sha256": "d198810e3382c2f69e7e4b28dd78f58c507ed29d0f755bbfc46fff65fbfd6467"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/validation-exported-geometry.json",
+      "size": 4328,
+      "sha256": "838b446ee9b116d231c09ee6d2cdb7eaf68e9edf1209c28356a52ad1a5fab158"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/validation-independent.json",
+      "size": 5289,
+      "sha256": "bb26bd5d96795191fc66a203243b18c57e9446dc5f0e712254a8acde3b23b22e"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/validation.json",
+      "size": 18896,
+      "sha256": "1ada8aaba4433a8fb1880a72ed0b0dd1526b370fc0736edd982386edc9250b66"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/外壳V3-宽版-实际网格预览.png",
+      "size": 271682,
+      "sha256": "1d978458cc6e1e5b4f3ced9dfba555aab7279caf9d7094ff0c0f96eebde06078"
+    },
+    {
+      "path": "help-button-enclosure-v3-wide-20261031/说明.txt",
+      "size": 3218,
+      "sha256": "a5a0a061a675dd01d0c4d70796a9cdbed41095b34605870ffaf8e76da5758b4b"
+    },
+    {
+      "path": "help-button-model-kit-20261031/build_four_plates.py",
+      "size": 7840,
+      "sha256": "89855461a060aeb8797085d2a752f8949a0d7cf59f9eeabdbc8b89f03e24c191"
+    },
+    {
+      "path": "help-button-mouth-20261031/build_mouth.py",
+      "size": 12814,
+      "sha256": "a1167c070c40bc49d3c3d5ae2587395ef76a99ed645733366a728fa4745f7c54"
+    },
+    {
+      "path": "help-button-mouth-20261031/mouth-black.stl",
+      "size": 4276684,
+      "sha256": "a8924adc30a183d52adbdd4ae3ca3d7cfce43a4cd08f075ba69edb7724a40a5a"
+    },
+    {
+      "path": "help-button-mouth-20261031/validation.json",
+      "size": 6223,
+      "sha256": "6f357df8a772e95e4cd20174a8d7b1291ecacb3f6135940343acc5be93824320"
+    },
+    {
+      "path": "help-button-mouth-20261031/说明.txt",
+      "size": 1249,
+      "sha256": "b2df48935fd381a65702366e3af2424a85f033b2475b57c7f649506ac4f7856f"
+    },
+    {
+      "path": "help-button-mouth-20261031/黑色笑嘴-实际网格装配预览.png",
+      "size": 334850,
+      "sha256": "016be5651806d4290e53345cd3e6009431405f1f7ff9dfc15971df7fed948944"
+    },
+    {
+      "path": "help-button-mouth-20261031/黑色笑嘴.3mf",
+      "size": 921953,
+      "sha256": "d4d98d4c0cc3cad074e6c10aa315e9d9388ef702f87b350ab22332f2fc0a9eda"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/build_pupils.py",
+      "size": 10471,
+      "sha256": "b162298a5a42e56287c0249c3dc01fc78282d56d461f6006ccfdb33f5b4ae7e4"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/pupil-left.stl",
+      "size": 294484,
+      "sha256": "599194c5079c49eaa5402692811c2a7c72856b784bf6563d6756805a55c33074"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/pupil-right.stl",
+      "size": 294484,
+      "sha256": "599194c5079c49eaa5402692811c2a7c72856b784bf6563d6756805a55c33074"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/validation.json",
+      "size": 1665,
+      "sha256": "b8410084bf0158cd7ff3840225a141d19880da60bad79b60a8d4f85f383892a0"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/说明.txt",
+      "size": 674,
+      "sha256": "6153dab69eb0aea2b2787f144c7ea8e6956a23b60ac2e8ea56dc405d8fd6f6c7"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/黑色眼珠-两只.3mf",
+      "size": 139499,
+      "sha256": "830ad2ae8a256d315d5a052601d463c9a07b1c836ae66d59b4b19fe1cf114986"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/black-pupils-20261031/黑色眼珠-装配与打印示意.png",
+      "size": 254507,
+      "sha256": "65403ce32ead8fdd559c0f7696e255758db1339da457ab46e8fc7c4b92cdc55e"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/build_prototype.py",
+      "size": 11753,
+      "sha256": "1360fdb69525abd704b7ccf63db7d748570aa96e7dfe9f6e9420ce25d948740e"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/top-button.stl",
+      "size": 5779084,
+      "sha256": "74a78b4911eb2a2ad0533dd60f87ea4482bda12e7df8ccb0af4410ad3496ccc9"
+    },
+    {
+      "path": "help-button-print-reference-20261030/printable-prototype-v1/validate_meshes.py",
+      "size": 12412,
+      "sha256": "d198810e3382c2f69e7e4b28dd78f58c507ed29d0f755bbfc46fff65fbfd6467"
+    },
+    {
+      "path": "package-check.json",
+      "size": 2045,
+      "sha256": "04caca3165a6f2b14545d9a92560871d3f8addfe66fc12e87cc465b47ae11eca"
+    },
+    {
+      "path": "rebuild_models.py",
+      "size": 1750,
+      "sha256": "34ea123f886a63745def91ba59423246b14fb6135134e2290e016679119fecd1"
+    },
+    {
+      "path": "requirements-models.txt",
+      "size": 30,
+      "sha256": "dee66a6fd7af314ef9bffcc1170d09684e468588fbe5d8668c6379b0b9e65839"
+    },
+    {
+      "path": "source-copy-verification.json",
+      "size": 21050,
+      "sha256": "9ae1bb175c35547e255a86bf327050294e99ff354ef9ffc1dbf68b829fe5bc0f"
+    }
+  ]
+}
